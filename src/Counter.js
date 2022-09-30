@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+//{ useState } 를 import 해줘야 사용 가능!
 function Counter() {
     const [number, setNumber] = useState(0);
 
